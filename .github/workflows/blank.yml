@@ -2,7 +2,7 @@ name: Compile Typst PDFs
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - 'submissions/**/*.typ'
   workflow_dispatch:
