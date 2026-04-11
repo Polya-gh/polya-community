@@ -98,7 +98,7 @@
     title: "Discriminant",
     difficulty: "medium",
     statement: [
-      For what values of $k$ does $x^2 + kx + 9 = 0$ have exactly one real solution?
+      For what values of $k$ does $x^2 + k x + 9 = 0$ have exactly one real solution?
     ],
     answer: $k = 6$,
     solution: [
