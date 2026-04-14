@@ -13,7 +13,7 @@
     ],
     answer: $16 P$,
     solution: [
-      By Stefan-Boltzmann law, $P propto T^4$. \
+      By Stefan-Boltzmann law, $P prop T^4$. \
       $(T')^4 = (2T)^4 = 16 T^4$, so the new power is $16 P$.
     ],
     source: "",
