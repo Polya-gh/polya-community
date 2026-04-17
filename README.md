@@ -10,7 +10,7 @@ This is where the problem library is built. Anyone can contribute problems, sugg
 
 ```
 /community
-  /templates        ← LaTeX and Typst templates for writing problems
+  /templates        ← Typst templates for writing problems
   /submissions      ← submitted problems
 ```
 
